@@ -21,6 +21,10 @@
 
 <center>
 <p align="center">
-Meu Nome é Douglas, estou iniciando na área de desenvolvedor Tenho conhecimento em design, construção e customização de sites usando as linguagens Web,<br><img src="https://github.com/Jeffbeu/readme/blob/main/27428-development.gif" width="300px"><br><br> já trabalhei em projeto Startup em equipe e tenho conhecimento com Scrum e Kanban também com design de sites usando a ferramenta AdobeXD Estou a procura de oportunidade na área de programação front-end e design ou com informática de modo geral estou disposto a trabalhar em qualquer área da informática caso tenha alguma duvida quer fazer uma critica ou outras coisas use o Fale Comigo Estarei a disposição e respondendo o email assim que possível
-
+Estou iniciando na área de desenvolvedor Tenho conhecimento em design, construção e customização de sites usando as linguagens Web,<br><img src="https://github.com/Jeffbeu/readme/blob/main/27428-development.gif" width="300px"><br><br> já trabalhei em projeto Startup em equipe e tenho conhecimento com Scrum e Kanban também com design de sites usando a ferramenta AdobeXD Estou a procura de oportunidade na área de programação front-end e design ou com informática de modo geral estou disposto a trabalhar em qualquer área da informática caso tenha alguma duvida quer fazer uma critica ou outras coisas use o Fale Comigo Estarei a disposição e respondendo o email assim que possível 
+  
+</p>
 </center>
+<center>
+  <img align="center" src="https://github.com/Jeffbeu/readme/blob/main/23029-submission-thumbs-up.gif" width="400px"/>
+  </center>
